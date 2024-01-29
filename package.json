@@ -2,6 +2,7 @@
   "name": "cash-order-calculator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://necastle88.github.io/cash-order-calculator/",
   "dependencies": {
     "@fluentui/react-components": "^9.46.0",
     "@testing-library/jest-dom": "^5.17.0",
